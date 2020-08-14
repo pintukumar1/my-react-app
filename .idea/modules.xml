@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/my-app.iml" filepath="$PROJECT_DIR$/.idea/my-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../react-complete-guide/.idea/react-complete-guide.iml" filepath="$PROJECT_DIR$/../react-complete-guide/.idea/react-complete-guide.iml" />
     </modules>
   </component>
 </project>
