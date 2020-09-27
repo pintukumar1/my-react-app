@@ -2,26 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00f52377-7174-4848-bb2d-83cc2db8364b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Burger-app.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/actions/actionTypes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/actions/burgerBuilder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/actions/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/actions/order.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/reducers/burgerBuilder.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/reducers/order.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Pintu_Kumar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/my-app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/my-app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/BurgerBuilder/BurgerBuilder.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Checkout/Checkout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Checkout/Checkout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Checkout/ContactData/ContactData.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/containers/Orders/Orders.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Orders/Orders.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/reducers/burgerBuilder.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/reducers/burgerBuilder.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/reducers/order.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/reducers/order.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/utility.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/utility.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +15,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="ProjectId" id="1i2LFfuU42uQXqnTAwkUQUdNb7G" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -54,7 +40,7 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
-    <configuration name="utility.js" type="NodeJSConfigurationType" editBeforeRun="true" nameIsGenerated="true" path-to-js-file="utility.js" working-dir="$PROJECT_DIR$/src/store">
+    <configuration type="NodeJSConfigurationType" editBeforeRun="true" path-to-js-file="utility.js" working-dir="$PROJECT_DIR$/src/store">
       <method v="2" />
     </configuration>
   </component>
@@ -71,7 +57,7 @@
       <workItem from="1601100647775" duration="2473000" />
       <workItem from="1601134521001" duration="190000" />
       <workItem from="1601135320468" duration="7026000" />
-      <workItem from="1601177957415" duration="110000" />
+      <workItem from="1601177957415" duration="6667000" />
     </task>
     <servers />
   </component>
@@ -79,10 +65,14 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601178300880">
+    <state x="136" y="59" key="#" timestamp="1601187940273">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="0" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1601178300880" />
+    <state x="136" y="59" key="#/0.0.1366.738@0.0.1366.738" timestamp="1601187940273" />
+    <state x="0" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601178503194">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="0" y="27" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1601178503194" />
     <state x="172" y="203" key="#com.intellij.tools.ToolEditorDialog" timestamp="1601178229066">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -91,10 +81,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="123" y="59" key="#utility.js/0.0.1366.738@0.0.1366.738" timestamp="1601178249018" />
-    <state x="29" y="0" key="CommitChangelistDialog2" timestamp="1601177761801">
+    <state x="29" y="0" key="CommitChangelistDialog2" timestamp="1601187735579">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="29" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1601177761801" />
+    <state x="29" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1601187735579" />
     <state x="184" y="127" key="FileChooserDialogImpl" timestamp="1601177942527">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -163,17 +153,29 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="784" height="226" key="GridCell.Tab.3.right/0.0.1366.738@0.0.1366.738" timestamp="1601178048421" />
-    <state x="0" y="15" key="SettingsEditor" timestamp="1601178151593">
+    <state x="0" y="15" key="SettingsEditor" timestamp="1601187615821">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="0" y="15" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1601178151593" />
-    <state x="213" y="289" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601177770406">
+    <state x="0" y="15" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1601187615821" />
+    <state x="93" y="100" width="647" height="545" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601187958921">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="213" y="289" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1601177770406" />
+    <state x="93" y="100" width="647" height="545" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1601187958921" />
+    <state x="213" y="289" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601187759147">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="213" y="289" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.738@0.0.1366.738" timestamp="1601187759147" />
     <state x="298" y="108" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey" timestamp="1601178231526">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="298" y="108" key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey/0.0.1366.738@0.0.1366.738" timestamp="1601178231526" />
+    <state x="72" y="169" key="run.anything.popup" timestamp="1601187712669">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="72" y="169" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1601187712669" />
+    <state x="79" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1601187718095">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="79" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1601187718095" />
   </component>
 </project>
