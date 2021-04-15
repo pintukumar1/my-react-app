@@ -33,7 +33,7 @@ sagaMiddleware.run(watchAuth);
 
 const app = (
     <Provider store={store}>
-        <BrowserRouter>
+        <BrowserRouter baseUrl="/">
             <App />
         </BrowserRouter>
     </Provider>
